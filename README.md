@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SciQus Frontend React Native
 
 A responsive mobile application built with React Native, featuring a modern UI with interactive components and smooth animations.
@@ -71,3 +72,6 @@ Kushal Pathave
 ## License
 
 This project is licensed under the MIT License.
+=======
+# Sciqus_Frontend_ReactNative
+>>>>>>> c61a62abc7acb50ce95920dcba7ec1e1e6097775
